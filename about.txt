@@ -1,0 +1,2 @@
+Created a new file by clicking crate new file in the right upper corner of my repo and named it as about.txt.
+This is what I had just done.
