@@ -1,0 +1,2 @@
+I created this file on vs code . Actually , I can create this on computer using GUI. 
+Whatever this example.txt file is not created in repository like about.txt file. Instead of that it is created on local computer.
